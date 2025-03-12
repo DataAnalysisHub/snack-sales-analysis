@@ -1,2 +1,2 @@
-# retail-chips-analysis
-This project highlights chips transactions trends as well as customer purchase behavior
+# snacks-sales-analysis
+use words like *chipnalyze* and *snacklytics*
